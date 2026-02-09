@@ -55,16 +55,16 @@ I'm a final-year **Electronics & Computer Science** student at **Shree LR Tiwari
 
 ### 📊 GitHub Stats
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishwakarmaVaibhav&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VishwakarmaVaibhav&show_icons=true&theme=tokyonight)
 
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwakarmaVaibhav&layout=compact)
+### 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VishwakarmaVaibhav&layout=compact&theme=tokyonight)
 
 
 <div align="center">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=VishwakarmaVaibhav&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy-git-main-rickstaa.vercel.app/?username=VishwakarmaVaibhav&theme=tokyonight&no-frame=true&margin-w=15" />
 </div>
 
 ---
